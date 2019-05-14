@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PhoneBook</string>
+
+    <string name="userId">ID</string>
+    <string name="userName">Name</string>
+    <string name="userNumber">Number</string>
+    <string name="userInfo">Information</string>
+    <string name="userCategory">Category</string>
+
+</resources>
